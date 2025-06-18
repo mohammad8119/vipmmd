@@ -2,3 +2,4 @@ vless://SAVTEAM2@grtsgsj.subscripshn.sbs:55555?security=reality&encryption=none&
 vmess://eyJhZGQiOiJiaWF0ZWxlZ3JhbS5iZWRvbmVtYXJ6LmRlIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQ4YjBmZDUyLTAwZTUtNGQ3OC05ZDg2LWFlNGIyMWNhYmYyMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTcwNTQiLCJwcyI6Im1hcmthemlfbmFsYXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#%D9%87%D9%85%D8%B1%D8%A7%D9%87%28%D9%85%D8%B1%DA%A9%D8%B2%DB%8C%20%D9%86%D9%84%D8%A7%D8%B3%29
 vless://d7081b97-027e-4f6f-8281-261df870123b@vip.set7.site:47369?security=&encryption=none&headerType=none&type=tcp#vip
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozOTFkNmY0Y2IyZjhkYjJk@151.240.110.212:11255#
