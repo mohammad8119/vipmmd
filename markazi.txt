@@ -3,3 +3,4 @@ vmess://eyJhZGQiOiJiaWF0ZWxlZ3JhbS5iZWRvbmVtYXJ6LmRlIiwiYWlkIjoiMCIsImFscG4iOiIi
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#%D9%87%D9%85%D8%B1%D8%A7%D9%87%28%D9%85%D8%B1%DA%A9%D8%B2%DB%8C%20%D9%86%D9%84%D8%A7%D8%B3%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozOTFkNmY0Y2IyZjhkYjJk@151.240.110.212:11255#
 vless://b96981a2-a6aa-44c0-b21f-88328379ec33@91.99.150.156:2182?mode=gun&security=reality&encryption=none&pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&fp=chrome&type=grpc&serviceName=chessgame&sni=chess.com#%F0%9F%9F%A1%20AmooSamad%3D%20%40
+vless://985ffb42-1229-43f7-82f0-a5ea7f94e525@91.99.185.214:2087?path=%2F&security=&encryption=none&type=ws#1
