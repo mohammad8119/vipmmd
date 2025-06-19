@@ -1,10 +1,9 @@
-vless://SAVTEAM2@grtsgsj.subscripshn.sbs:55555?security=reality&encryption=none&pbk=smklD4EyRKJ7tf3rlqBDxQNSA1jT_9WlKCfZzPzFZw4&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=stackoverflow.com&sid=839f6e#%DB%8C%DA%A9%20%D9%85%D8%A7%D9%87%D9%87%28%D8%A8%D8%B1%D9%88%D8%B2%20%D8%B1%D8%B3%D8%A7%D9%86%DB%8C%20%D8%B3%D8%B1%D9%88%D8%B1%20%D9%87%D8%B1%20%DB%B6%20%D8%B3%D8%A7%D8%B9%D8%AA%29
-vmess://eyJhZGQiOiJiaWF0ZWxlZ3JhbS5iZWRvbmVtYXJ6LmRlIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQ4YjBmZDUyLTAwZTUtNGQ3OC05ZDg2LWFlNGIyMWNhYmYyMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTcwNTQiLCJwcyI6Im1hcmthemlfbmFsYXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#%D9%87%D9%85%D8%B1%D8%A7%D9%87%28%D9%85%D8%B1%DA%A9%D8%B2%DB%8C%20%D9%86%D9%84%D8%A7%D8%B3%29
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozOTFkNmY0Y2IyZjhkYjJk@151.240.110.212:11255#
+vless://a1c2ddb0-9e3c-4b11-acee-e358025d3e60@84.241.20.8:123?security=none&encryption=none&headerType=http&type=tcp#%D9%86%D8%AA%20%D9%85%D9%84%DB%8C
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWdlRVazVMakZTV2xaZmhTcjB3dkNn@78.46.226.140:60051#%D9%86%D8%AA%20%D9%85%D9%84%DB%8C
 vless://b96981a2-a6aa-44c0-b21f-88328379ec33@91.99.150.156:2182?mode=gun&security=reality&encryption=none&pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&fp=chrome&type=grpc&serviceName=chessgame&sni=chess.com#%F0%9F%9F%A1%20AmooSamad%3D%20%40
+vless://e1bda155-445f-418a-abc2-bc63207eb3ee@poolw.iceuniverse.top:443?path=%2Fde&security=tls&encryption=none&host=de25eadf81bc6543qw89ae68de20v67f35d6c043b8976250448p.staruniverse.lat&type=ws&sni=de25eadf81bc6543qw89ae68de20v67f35d6c043b8976250448p.staruniverse.lat#%F0%9F%9F%A1
 vless://985ffb42-1229-43f7-82f0-a5ea7f94e525@91.99.185.214:2087?path=%2F&security=&encryption=none&type=ws#1
-vless://e1bda155-445f-418a-abc2-bc63207eb3ee@poolw.iceuniverse.top:443?path=%2Fde&security=tls&encryption=none&host=de25eadf81bc6543qw89ae68de20v67f35d6c043b8976250448p.staruniverse.lat&type=ws&sni=de25eadf81bc6543qw89ae68de20v67f35d6c043b8976250448p.staruniverse.lat#%F0%9F%9F%A1%20Telegram%3D%20%40VPN_SOLVE
-vless://9e3af234-4fc2-440d-bb6e-bf29dfc63b34@amoron.v2kor.xyz:25742?security=none&encryption=none&headerType=none&type=tcp#hamrah
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWdlRVazVMakZTV2xaZmhTcjB3dkNn@78.46.226.140:60051#%E2%9A%AA16%20%40IraneAzad_Net%20%D9%86%D8%AA%20%D9%85%D9%84%DB%8C
-vless://a1c2ddb0-9e3c-4b11-acee-e358025d3e60@84.241.20.8:123?security=none&encryption=none&headerType=http&type=tcp#%E2%9A%AA17%20%40IraneAzad_Net%20%D9%86%D8%AA%20%D9%85%D9%84%DB%8C
+vless://985ffb42-1229-43f7-82f0-a5ea7f94e525@91.99.185.214:2087?path=%2F&security=&encryption=none&type=ws#1
+vless://9e3af234-4fc2-440d-bb6e-bf29dfc63b34@amoron.v2kor.xyz:25742?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%9F%A1%20%D9%86%D8%AA%20%D9%85%D9%84%DB%8C
+vless://2e655095-7f4e-428d-9c7e-eb2278e153a8@91.99.148.251:3184?mode=gun&security=reality&encryption=none&pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&fp=chrome&type=grpc&serviceName=chessgame&sni=www.chess.com#%F0%9F%9F%A1%20%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D8%AA%D9%84
+vmess://eyJhZGQiOiIxMzQuMTk5LjE5OS4xMTkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InVwbG9hZGJveS5jb20iLCJpZCI6ImQ5ZjJiYmI4LWI3MzgtNDcxMi04YzgxLTZkMjM2Nzg0Y2U3OCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgxMSIsInBzIjoi2YXZhNuMdWMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
